@@ -6,7 +6,8 @@
     1. You must have python installed on your computer. 
     2. You must have pyautogui library installed on your computer. 
     3. This bot only works with screens that have resolution 1920x1080. 
-    4. Currently the section is randomly selected, you can put in your own sections in the source code and it'll work just fine.
+    4. Currently the section is randomly selected, you can put in your 
+       own sections in the source code and it'll work just fine.
 ## Tech Stack
 
 **Languages:** Python
