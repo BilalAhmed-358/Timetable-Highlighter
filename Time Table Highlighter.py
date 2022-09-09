@@ -46,7 +46,7 @@ def Conditional_Formating_conditions():
     py.click()
 
     # red color coordiantes are (223,428)
-    py.moveTo(223, 428)
+    py.moveTo(332, 304)
     py.click()
 
     # the okay button coordinates are (576,681)
@@ -77,8 +77,3 @@ def highlight():
 
 
 highlight()
-print("Yay it worked!!!")
-time.sleep(1)
-print("Bye!")
-time.sleep(1)
-print("Bas itna hi tha, thanks for watching!")
